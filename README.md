@@ -1,0 +1,1 @@
+# rknn_resnet50
